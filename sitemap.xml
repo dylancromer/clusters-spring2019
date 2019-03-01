@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/home/big_picture/</loc>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/home/extensions/</loc>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/home/sz_clusters/</loc>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/home/future_sz/</loc>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/</loc>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//dylancromer.com/clusters-spring2019/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
